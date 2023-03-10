@@ -13,5 +13,6 @@ Sources and further reading/resources for guest lecture on teamwork in practice.
 - :page_with_curl: [101 on 1:1s at Spotify](https://engineering.atspotify.com/2015/12/a-101-on-11s/)
 - :hammer_and_wrench: [Retrospecive toolkit](https://engineering.atspotify.com/2017/12/spotify-retro-kit/.)
 - :page_with_curl: [The secrets of great teamwork](https://hbr.org/2016/06/the-secrets-of-great-teamwork)
+- :octocat: [Example of automated standards at the AI Foundry](https://github.com/samattwood9/streamlit-starter-tour)
 
 
